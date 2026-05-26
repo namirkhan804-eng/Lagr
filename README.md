@@ -1,4 +1,4 @@
-# LAGR BEST v7.0
+# LAGR
 
 **All-in-One Real Device Checker + Controller**
 
