@@ -24,12 +24,6 @@ Every reading comes directly from:
 
 Compare with Task Manager, CPU-Z, GPU-Z - values match exactly.
 
-## Build
-
-```bash
-pip install -r requirements.txt
-pyinstaller --onefile --windowed --icon=icon.ico --name LAGR_UNIFIED_BEST_NamirKhan lagr_unified_best.py
-```
 
 ## Publish
 
@@ -38,3 +32,6 @@ This software is owned by M. A. I. Namir Khan. Free for personal and commercial 
 ## Screenshot
 
 Auto-detects your PC manufacturer instantly.
+
+## Visit
+https://lagr-installer-official-main.netlify.app/
